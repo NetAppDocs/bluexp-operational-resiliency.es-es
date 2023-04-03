@@ -12,7 +12,7 @@ summary: Si selecciona la opción de subsanar, el servicio puede implementar la 
 
 
 [role="lead"]
-Si ha seleccionado la opción *subsanar*, el servicio puede implementar la corrección para usted.
+Si ha seleccionado la opción *subsand* en el servicio de flexibilidad operativa BlueXP, el servicio puede implementar la corrección para usted.
 
 .Pasos
 . En la navegación izquierda de BlueXP, seleccione *Salud* > *resiliencia operativa* > *resolución de riesgos*.
@@ -25,11 +25,11 @@ Aparecen instrucciones, en función del problema. Algunas de las opciones de est
 +
 ** Si un conector no existe o aún no está habilitado, el servicio muestra la página Crear un conector, donde puede crear el conector. Si el conector existe, pero no está activo, debe habilitarlo en el servicio del proveedor de cloud.
 +
-Consulte la documentación de BlueXP que se describe https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["cómo crear un conector"].
+Consulte la documentación de BlueXP que se describe https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["cómo crear un conector"^].
 
 ** Si no existe un clúster, el servicio muestra una página donde identifica el clúster.
 +
-Consulte la documentación de BlueXP que explica https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["cómo identificar el clúster"].
+Consulte la documentación de BlueXP que explica https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["cómo identificar el clúster"^].
 
 
 

@@ -20,7 +20,7 @@ Estas preguntas frecuentes pueden ser de ayuda si solo está buscando una respue
 
 *¿Cuál es la URL de flexibilidad operativa de BlueXP?*
 
-Para la URL, en un navegador, introduzca: https://console.bluexp.netapp.com/[]
+Para la URL, en un navegador, introduzca: https://console.bluexp.netapp.com/["https://console.bluexp.netapp.com/"^]
 
 
 
