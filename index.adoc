@@ -1,0 +1,15 @@
+---
+layout: landing-page 
+sidebar: sidebar 
+permalink: index.html 
+summary: La resiliencia operativa es una categoría de servicios que le ayudan a analizar las alertas y eventos para mantener el estado, el tiempo de actividad y el rendimiento de los servicios y las soluciones. Mediante el servicio de corrección de riesgos de la resiliencia operativa y sus sugerencias de corrección operativa automatizada DE TI, puede implementar soluciones sugeridas antes de que se produzca una interrupción o un fallo. 
+---
+= Servicio de resiliencia operativa
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+

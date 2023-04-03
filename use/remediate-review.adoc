@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-review.html 
+keywords: bluexp, operational resiliency, remediate, security risk remediation 
+summary: El servicio de corrección de riesgos identifica los riesgos de seguridad en su clúster ONTAP local. 
+---
+= Revisar los problemas de riesgo de seguridad
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+El servicio de corrección de riesgos identifica los riesgos de seguridad en su clúster ONTAP local.
+
+La revisión de los riesgos y la ejecución de la corrección automatizada implica los siguientes procesos:
+
+* Cree un conector en BlueXP (si aún no existe ninguno para el servicio de corrección de riesgos).
+* Detecte el clúster (si aún no existe ninguno para el servicio).
+* Ejecute la corrección o descargue un libro de estrategia de Ansible.
+* Consulte el estado de la corrección.
+
+
+.Pasos
+. En la navegación izquierda de BlueXP, seleccione *Salud* > *resiliencia operativa* > *resolución de riesgos*.
+. En la lista de riesgos, ordene por la columna de nivel de impacto para ver primero los riesgos más altos.
+. Seleccione el riesgo y vea detalles adicionales.
+. Seleccione *solucionar riesgo*.
+. Debe realizar una de las siguientes acciones:
++
+** Para cada clúster, seleccione *solucionar*.
++
+Esta acción lleva a solucionar el problema automáticamente (después de seleccionar *Ejecutar* para iniciar la corrección). Continúe con link:../use/remediate-auto.html["Solucione los problemas de riesgo automáticamente"].
+
+** Para solucionar el problema con una tableta Ansible playbook, seleccione *Descargar*. Continúe con link:../use/remediate-ansible.html["Solucione los problemas de riesgo con un libro de estrategia de Ansible"].
+
+
+

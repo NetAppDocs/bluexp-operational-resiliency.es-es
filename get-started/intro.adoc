@@ -1,0 +1,50 @@
+---
+sidebar: sidebar 
+permalink: get-started/intro.html 
+keywords: how bluexp operational resiliency works, what is operational resiliency, bluexp 
+summary: La resiliencia operativa es una categoría de servicios que le ayudan a analizar las alertas y eventos para mantener el estado, el tiempo de actividad y el rendimiento de los servicios y las soluciones. Mediante el servicio de corrección de riesgos de la resiliencia operativa y sus sugerencias de corrección operativa automatizada DE TI, puede implementar soluciones sugeridas antes de que se produzca una interrupción o un fallo. 
+---
+= Más información sobre el servicio de resiliencia operativa
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/concepts/
+
+
+[role="lead"]
+La resiliencia operativa es una categoría de servicios que le ayudan a analizar las alertas y eventos para mantener el estado, el tiempo de actividad y el rendimiento de los servicios y las soluciones. Mediante el servicio de corrección de riesgos de la resiliencia operativa y sus sugerencias de corrección operativa automatizada DE TI, puede implementar soluciones sugeridas antes de que se produzca una interrupción o un fallo.
+
+La solución de riesgos es un servicio para BlueXP que implementa soluciones para los clústeres de ONTAP de NetApp basadas en la guía Digital Advisor (antes Active IQ) de NetApp. El servicio detecta vulnerabilidades de seguridad, como problemas de configuración de firmware y software.
+
+
+
+== Ventajas de utilizar el servicio de flexibilidad operativa
+
+El servicio de flexibilidad operativa ofrece las siguientes ventajas:
+
+* Procedimientos automatizados para correcciones en el clúster
+* Vista de resumen de la consola que muestra el estado de cada corrección de riesgos
+* Registro que permite realizar un seguimiento de las diferentes acciones realizadas
+
+
+
+
+== Qué puede hacer con el servicio de resiliencia operativa
+
+Con el servicio de resiliencia operativa, puede lograr los siguientes objetivos:
+
+* Utilice flujos de trabajo automatizados que le ayudan a detectar riesgos que afectan a su entorno de almacenamiento y emprender acciones para mitigarlos.
+* Revisar y actuar sobre recomendaciones operativas, como cuestiones relacionadas con vulnerabilidades de seguridad.
+
+
+
+
+== Coste
+
+NetApp no le cobra por usar el servicio.
+
+
+
+== Entornos compatibles
+
+El servicio de resiliencia operativa analiza los clústeres ONTAP de NetApp locales.

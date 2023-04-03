@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: get-started/login.html 
+keywords: bluexp login, risk remediation log in, operational resiliency 
+summary: Comience con el servicio de flexibilidad operativa accediendo al servicio en BlueXP. 
+---
+= Acceda al servicio de flexibilidad operativa en BlueXP
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+Puede utilizar el servicio de flexibilidad operativa iniciando sesión en NetApp BlueXP.
+
+Para iniciar sesión en BlueXP, puede utilizar sus credenciales del sitio de soporte de NetApp o puede registrarse para iniciar sesión en cloud de NetApp con su correo electrónico y una contraseña. https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["Obtenga más información sobre cómo iniciar sesión"].
+
+.Pasos
+. Abra un explorador web y vaya al https://console.bluexp.netapp.com/["Consola BlueXP"].
++
+Aparece la página de inicio de sesión de NetApp BlueXP.
+
+. Inicie sesión en BlueXP.
+. En la navegación izquierda de BlueXP, seleccione *Salud* > *resiliencia operativa*.
+

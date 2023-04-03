@@ -1,0 +1,14 @@
+---
+section: use
+title: Utilice el servicio resiliencia operativa
+entries:
+- title: Revisar y solucionar los problemas de seguridad
+  url: "/use/remediate-overview.html"
+- title: Revise los problemas de seguridad
+  url: "/use/remediate-review.html"
+- title: Solucione los problemas automáticamente
+  url: "/use/remediate-auto.html"
+- title: Solucione problemas con el libro de estrategia de Ansible
+  url: "/use/remediate-ansible.html"
+- title: Determinar el estado de la corrección
+  url: "/use/remediate-status.html"

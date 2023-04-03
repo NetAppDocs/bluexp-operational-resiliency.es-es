@@ -1,0 +1,34 @@
+---
+sidebar: sidebar 
+permalink: get-started/quick-start.html 
+keywords: how to get started with bluexp operational resiliency, operational resiliency quick start, security risk remediation 
+summary: Comience a utilizar el servicio de flexibilidad operativa de BlueXP de NetApp en unos cuantos pasos. 
+---
+= Inicio rápido del servicio de resiliencia operativa
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+A continuación se ofrece una descripción general de los pasos necesarios para empezar a utilizar el servicio de flexibilidad operativa BlueXP de NetApp. Los vínculos de cada paso le llevan a una página que proporciona más detalles.
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["Uno"] Revise los requisitos previos
+[role="quick-margin-para"]
+link:../get-started/prerequisites.html["Asegúrese de que su entorno cumpla estos requisitos"^].
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["Dos"] Configurar el servicio de resiliencia operativa
+[role="quick-margin-para"]
+link:../get-started/setup.html["Complete los pasos necesarios para configurar el servicio"^].
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png["Tres"] El futuro
+[role="quick-margin-para"]
+Cuando termine de configurar el servicio, a continuación puede que haga lo siguiente.
+
+[role="quick-margin-list"]
+* link:../use/remediate-overview.html["Revisar y solucionar los problemas de riesgo de seguridad"^].
+* link:../use/remediate-auto.html["Corrija automáticamente"^].
+* link:../use/remediate-ansible.html["Solucione con un libro de estrategia de Ansible"^].
+* link:../use/remediate-status.html["Determinar el estado de corrección de riesgos"^].
+

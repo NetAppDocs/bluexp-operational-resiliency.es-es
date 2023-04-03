@@ -1,0 +1,46 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-auto.html 
+keywords: bluexp, operational resiliency, remediate, security risk remediation 
+summary: Si selecciona la opción de subsanar, el servicio puede implementar la corrección para usted. 
+---
+= Solucione el problema automáticamente
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Si ha seleccionado la opción *subsanar*, el servicio puede implementar la corrección para usted.
+
+.Pasos
+. En la navegación izquierda de BlueXP, seleccione *Salud* > *resiliencia operativa* > *resolución de riesgos*.
+. En la página resolución de riesgos, ordene por la columna nivel de impacto para ver primero los riesgos más altos.
+. Seleccione el riesgo y seleccione *solucionar riesgo*.
+. Para cada clúster, seleccione *solucionar*.
++
+Aparecen instrucciones, en función del problema. Algunas de las opciones de esta página no aparecen si existe un conector BlueXP o si se conoce un clúster.
+
++
+** Si un conector no existe o aún no está habilitado, el servicio muestra la página Crear un conector, donde puede crear el conector. Si el conector existe, pero no está activo, debe habilitarlo en el servicio del proveedor de cloud.
++
+Consulte la documentación de BlueXP que se describe https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["cómo crear un conector"].
+
+** Si no existe un clúster, el servicio muestra una página donde identifica el clúster.
++
+Consulte la documentación de BlueXP que explica https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["cómo identificar el clúster"].
+
+
+
+. Después de poner en marcha el conector y de detectar el clúster, revise la corrección.
++
+Si ha seleccionado la opción *solucionar* para que el servicio implemente la corrección, aparecerá la página revisar y ejecutar corrección necesaria.
+
+. Revise el riesgo y otra información.
+. Seleccione *Ejecutar*.
++
+Esta acción implementa el conector (si no lo ha hecho todavía), detecta el clúster, descarga la corrección e implementa automáticamente la corrección en el clúster seleccionado.
+
+. Para ver el estado de la corrección, tenga en cuenta el nombre del clúster en la página Remediation Status.
+

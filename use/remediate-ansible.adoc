@@ -1,0 +1,41 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-ansible.html 
+keywords: bluexp, operational resiliency, remediate, security risk remediation 
+summary: Puede revisar los riesgos de seguridad y descargar un libro de aplicaciones de Ansible que puede seguir para solucionar el problema. 
+---
+= Solucione con un libro de estrategia de Ansible
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Puede revisar los riesgos de seguridad y descargar un libro de aplicaciones de Ansible que puede seguir para solucionar el problema.
+
+Puede descargar un libro de estrategia de Ansible, un sistema de puesta en marcha de código abierto que le permite ejecutar tareas de configuración. Para usar Ansible, simplemente ejecute el archivo playbook, que usa el inventario y los archivos auxiliares almacenados en el mismo directorio.
+
+.Lo que necesitará
+El sistema debe poder acceder a la IP del clúster a través de la red para ejecutar los libros de estrategia de Ansible.
+
+.Pasos
+. En la navegación izquierda de BlueXP, seleccione *Salud* > *resiliencia operativa* > *resolución de riesgos*.
+. En la lista de riesgos, ordene por la columna de nivel de impacto para ver primero los riesgos más altos.
+. Seleccione el riesgo y seleccione *solucionar riesgo*.
+. Para descargar un libro de aplicaciones de Ansible que utilice para solucionar el problema, seleccione *Descargar*.
++
+El servicio instala el libro de estrategia de Ansible en las máquinas locales en una ubicación que elija. el libro de aplicaciones se descarga como un archivo zip, que contiene varios archivos YML.
+
+. Ubique el libro de estrategia de Ansible en la carpeta de descarga.
+. Ejecute el libro de estrategia de Ansible:
++
+[listing]
+----
+$ ansible-playbook <playbook.yml>
+----
++
+Para obtener instrucciones sobre cómo usar el libro de estrategia de Ansible, consulte https://docs.ansible.com/ansible/latest/network/getting_started/first_playbook.html["Documentación de Ansible"^].
+
+. Siga las instrucciones del libro de estrategia.
+
