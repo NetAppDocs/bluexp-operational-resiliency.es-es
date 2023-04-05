@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/quick-start.html 
 keywords: how to get started with bluexp operational resiliency, operational resiliency quick start, security risk remediation 
-summary: Comience a utilizar el servicio de flexibilidad operativa de BlueXP de NetApp en unos cuantos pasos. 
+summary: Introducción al servicio de flexibilidad operativa BlueXP de NetApp en unos cuantos pasos. 
 ---
-= Inicio rápido del servicio de resiliencia operativa
+= Inicio rápido del servicio de flexibilidad operativa
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -18,7 +18,7 @@ A continuación se ofrece una descripción general de los pasos necesarios para 
 [role="quick-margin-para"]
 link:../get-started/prerequisites.html["Asegúrese de que su entorno cumpla estos requisitos"^].
 
-.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["Dos"] Configurar el servicio de resiliencia operativa
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["Dos"] Configure el servicio de resiliencia operativa
 [role="quick-margin-para"]
 link:../get-started/setup.html["Complete los pasos necesarios para configurar el servicio"^].
 

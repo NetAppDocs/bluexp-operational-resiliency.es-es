@@ -4,7 +4,7 @@ permalink: get-started/faq.html
 keywords: operational resiliency faq, risk remediation frequently asked questions 
 summary: Estas preguntas frecuentes pueden ser de ayuda si solo está buscando una respuesta rápida a una pregunta. 
 ---
-= Preguntas frecuentes para el servicio de resiliencia operativa
+= Preguntas frecuentes sobre el servicio de flexibilidad operativa
 :hardbreaks:
 :allow-uri-read: 
 :icons: font

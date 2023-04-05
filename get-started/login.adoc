@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/login.html 
 keywords: bluexp login, risk remediation log in, operational resiliency 
-summary: Comience con el servicio de flexibilidad operativa accediendo al servicio en BlueXP. 
+summary: Comience a utilizar el servicio de flexibilidad operativa accediendo al servicio de BlueXP. 
 ---
-= Acceda al servicio de flexibilidad operativa en BlueXP
+= Acceda al servicio de flexibilidad operativa de BlueXP
 :hardbreaks:
 :allow-uri-read: 
 :icons: font

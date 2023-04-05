@@ -4,7 +4,7 @@ permalink: get-started/setup.html
 keywords: bluexp, operational resiliency, risk remediate 
 summary: En lugar de añadir capacidad o datos fríos en niveles, puede elegir entre no se requiere ninguna acción en este momento y establecer recordatorios para que se vuelva a comprobar después de 30, 60 o 90 días. 
 ---
-= Configurar el servicio de resiliencia operativa
+= Configure el servicio de resiliencia operativa
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,7 +12,7 @@ summary: En lugar de añadir capacidad o datos fríos en niveles, puede elegir e
 
 
 [role="lead"]
-El primer paso en el camino hacia el uso del servicio de resiliencia operativa está poniendo los datos a disposición de las herramientas de supervisión de su entorno.
+El primer paso del camino hacia el uso del servicio de resiliencia operativa está haciendo que los datos estén disponibles desde las herramientas de supervisión de su entorno.
 
 La configuración del servicio implica los siguientes pasos:
 
@@ -27,7 +27,7 @@ La configuración del servicio implica los siguientes pasos:
 
 Un conector BlueXP incluye credenciales a las máquinas ONTAP de NetApp para que el servicio de resiliencia operativa pueda asesorar sobre riesgos de seguridad y ejecutar soluciones.
 
-Puede crear un conector directamente en BlueXP y utilizarlo en el servicio de resiliencia operativa. O bien, puede iniciar el proceso de mirar el clúster y en medio de ese proceso, implementar el conector.
+Puede crear un conector directamente en BlueXP y utilizarlo en el servicio de resistencia operativa. O bien, puede iniciar el proceso de mirar el clúster y en medio de ese proceso, implementar el conector.
 
 Para crear un conector en BlueXP antes de utilizar el servicio, consulte la documentación de BlueXP que describe https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["cómo crear un conector"^].
 

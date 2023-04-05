@@ -12,7 +12,7 @@ summary: Si selecciona la opción de subsanar, el servicio puede implementar la 
 
 
 [role="lead"]
-Si ha seleccionado la opción *subsand* en el servicio de flexibilidad operativa BlueXP, el servicio puede implementar la corrección para usted.
+Si ha seleccionado la opción *subsanar* en el servicio de flexibilidad operativa BlueXP, el servicio puede implementar la corrección para usted.
 
 .Pasos
 . En la navegación izquierda de BlueXP, seleccione *Salud* > *resiliencia operativa* > *resolución de riesgos*.
