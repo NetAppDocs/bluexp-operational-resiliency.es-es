@@ -80,7 +80,6 @@
   <block id="c08c16ebaae52a216a6bdc1f3d6a4f8c" category="doc">Requisitos previos de resiliencia operativa</block>
   <block id="84804abf3404a430e85ae3299587a6b0" category="paragraph">Comience verificando la preparación de su entorno operativo, el inicio de sesión, el acceso a la red y el navegador web.</block>
   <block id="3bb4638459c9fa17eee7502169bd253e" category="list-text">Su entorno debe cumplir todos los requisitos de BlueXP, incluido un inicio de sesión y acceso a la red desde un navegador Web.</block>
-  <block id="5b13c2584f8e7be6ddae81fa76b103bc" category="inline-link">Lista de comprobación de introducción</block>
   <block id="ea7b2437ddd14dce6ba3f65494d634fd" category="inline-link">Documentación de Digital Advisor</block>
   <block id="a3538d61b66c68f21178c789ab57dc45" category="list-text">Debe tener credenciales de acceso a los clústeres.</block>
   <block id="8996677d91a175f8986c9fb086d0a019" category="summary">En lugar de añadir capacidad o datos fríos en niveles, puede elegir entre no se requiere ninguna acción en este momento y establecer recordatorios para que se vuelva a comprobar después de 30, 60 o 90 días.</block>
@@ -133,7 +132,6 @@
   <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">Utilice opciones de soporte automático</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">Estas opciones están disponibles de forma gratuita, las 24 horas del día, los 7 días de la semana:</block>
   <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">Base de conocimientos</block>
-  <block id="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="list-text"><block ref="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="inline-link-rx"></block></block>
   <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">Busque en la base de conocimientos de BlueXP para encontrar artículos útiles para resolver problemas.</block>
   <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">Comunidades</block>
   <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
@@ -308,7 +306,6 @@
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Notas de la versión</block>
   <block id="512d7187e11e6b2bd094632645a845b7" category="paragraph">Consulte la documentación de BlueXP que se describe<block ref="3be6fdd970ee3d2f07a043a29363ec05" category="inline-link-rx"></block>.</block>
   <block id="f164503793033fa06dba0ecdec3a5be1" category="paragraph">Consulte la documentación de BlueXP que explica<block ref="20b708c671b065a2812094c911bf9a2e" category="inline-link-rx"></block>.</block>
-  <block id="641d85e3392af705f9d34f2fa609a57b" category="paragraph">Consulte el BlueXP<block ref="1295fbde6ecbfd0b1a74b2320f542e01" category="inline-link-rx"></block>.</block>
   <block id="93dc9f8dd242c418b4365801f4f34021" category="list-text">El servicio requiere que todos los clústeres estén supervisados por el asesor digital (anteriormente asesor digital de Active IQ). Consulte<block ref="5d1aa2fae9958ef5ced45eec5d13d250" category="inline-link-rx"></block>.</block>
   <block id="137f465ff17e307c6d821b8f1d37049b" category="paragraph">Para iniciar sesión en BlueXP, puede utilizar sus credenciales del sitio de soporte de NetApp o puede registrarse para iniciar sesión en cloud de NetApp con su correo electrónico y una contraseña.<block ref="83012c4a40bb3321733997744c83daa9" category="inline-link-rx"></block>.</block>
   <block id="942a771213d3b59ba27960f61d97b1ac" category="inline-link"><block ref="942a771213d3b59ba27960f61d97b1ac" category="inline-link-rx"></block></block>
@@ -349,4 +346,8 @@
   <block id="822e3a5523be56be4343224274f22c3b" category="paragraph">Si ha seleccionado la opción *subsanar* en el servicio de flexibilidad operativa BlueXP, el servicio puede implementar la corrección para usted.</block>
   <block id="6d04364204b362ee365b97c4ec08a1d8" category="sidebar">La resiliencia operativa es un servicio que le ayuda a analizar las alertas y los eventos para mantener el estado, el tiempo de actividad y el rendimiento de los servicios y las soluciones. Mediante el servicio de resiliencia operativa y sus sugerencias automatizadas de solución de riesgos operativos DE TI, puede implementar soluciones correctivas sugeridas antes de que se produzca una interrupción o un fallo.</block>
   <block id="21d892a35096adc6364a2a04c3d6a011" category="sidebar">Utilice el servicio de resiliencia operativa</block>
+  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="69b085a23d3ed85c84455b9288792bf2" category="inline-link">Inicio rápido de BlueXP</block>
+  <block id="45e7f38a8238b36c23e85bbe6436ba0b" category="inline-link">Información de red de BlueXP</block>
+  <block id="ab38a54ae4da8a4cab463c7bb64ef70a" category="paragraph">Consulte la<block ref="4b1866f17dc6bd66f88d9d6839084df6" category="inline-link-rx"></block> y..<block ref="8b2e3c99c244ff11d22f3c561bd167b2" category="inline-link-rx"></block>.</block>
 </blocks>
