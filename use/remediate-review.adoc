@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/remediate-review.html 
 keywords: bluexp, operational resiliency, remediate, security risk remediation 
-summary: El servicio de corrección de riesgos identifica los riesgos de seguridad en su clúster ONTAP local. 
+summary: La resiliencia operativa de BlueXP identifica los riesgos de seguridad en tu clúster de ONTAP on-premises. 
 ---
 = Revisar los problemas de riesgo de seguridad
 :hardbreaks:
@@ -12,11 +12,11 @@ summary: El servicio de corrección de riesgos identifica los riesgos de segurid
 
 
 [role="lead"]
-El servicio de corrección de riesgos identifica los riesgos de seguridad en su clúster ONTAP local.
+La resiliencia operativa de BlueXP identifica los riesgos de seguridad en tu clúster de ONTAP on-premises.
 
 La revisión de los riesgos y la ejecución de la corrección automatizada implica los siguientes procesos:
 
-* Cree un conector en BlueXP (si aún no existe ninguno para el servicio de corrección de riesgos).
+* Crea un conector en BlueXP (si todavía no existe ninguno para el servicio de resiliencia operativa).
 * Detecte el clúster (si aún no existe ninguno para el servicio).
 * Ejecute la corrección o descargue un libro de estrategia de Ansible.
 * Consulte el estado de la corrección.

@@ -1,15 +1,15 @@
 ---
 indexpage:
-  lead: La resiliencia operativa es un servicio que le ayuda a analizar las alertas
-    y los eventos para mantener el estado, el tiempo de actividad y el rendimiento
-    de los servicios y las soluciones. Mediante el servicio de resiliencia operativa
-    y sus sugerencias automatizadas de solución de riesgos operativos DE TI, puede
-    implementar soluciones correctivas sugeridas antes de que se produzca una interrupción
-    o un fallo.
+  lead: La resiliencia operativa de BlueXP es un servicio que te ayuda a analizar
+    alertas y eventos para mantener el estado, el tiempo activo y el rendimiento de
+    los servicios y soluciones. Mediante el servicio de resiliencia operativa y sus
+    sugerencias automatizadas de solución de riesgos operativos DE TI, puede implementar
+    soluciones correctivas sugeridas antes de que se produzca una interrupción o un
+    fallo.
   tiles:
   - title: Manos a la obra
     links:
-    - title: Obtenga más información sobre el servicio de resiliencia operativa
+    - title: Obtenga más información sobre la resiliencia operativa de BlueXP
       url: "/get-started/intro.html"
     - title: Novedades
       url: "/release-notes/whats-new.html"
@@ -21,7 +21,7 @@ indexpage:
       url: "/get-started/login.html"
     - title: PREGUNTAS FRECUENTES
       url: "/get-started/faq.html"
-  - title: Utilice el servicio de resiliencia operativa
+  - title: Utilice la resiliencia operativa de BlueXP
     links:
     - title: Revisar y solucionar los problemas de seguridad
       url: "/use/remediate-overview.html"

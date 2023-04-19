@@ -2,15 +2,15 @@
 section: get-started
 title: Manos a la obra
 entries:
-- title: Obtenga más información sobre el servicio de resiliencia operativa
+- title: Obtenga más información sobre la resiliencia operativa de BlueXP
   url: "/get-started/intro.html"
 - title: Requisitos previos
   url: "/get-started/prerequisites.html"
 - title: Inicio rápido
   url: "/get-started/quick-start.html"
-- title: Configure el servicio de resiliencia operativa
+- title: Configura la resiliencia operativa de BlueXP
   url: "/get-started/setup.html"
-- title: Acceda al servicio en BlueXP
+- title: Accede a la resiliencia operativa de BlueXP
   url: "/get-started/login.html"
 - title: PREGUNTAS FRECUENTES
   url: "/get-started/faq.html"

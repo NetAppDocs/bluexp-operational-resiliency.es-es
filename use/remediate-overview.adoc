@@ -12,7 +12,7 @@ summary: El servicio de resiliencia operativa BlueXP de NetApp utiliza la IA par
 
 
 [role="lead"]
-El servicio de resiliencia operativo permite revisar los riesgos de seguridad relacionados con los problemas del firmware e implementar soluciones.
+La resiliencia operativa de BlueXP te permite revisar los riesgos de seguridad relacionados con los problemas de firmware e implementar soluciones.
 
 Las recomendaciones se proporcionan a nivel del sistema o nodo.
 

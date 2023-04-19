@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/intro.html 
 keywords: how bluexp operational resiliency works, what is operational resiliency, bluexp 
-summary: La resiliencia operativa es un servicio que le ayuda a analizar las alertas y los eventos para mantener el estado, el tiempo de actividad y el rendimiento de los servicios y las soluciones. Mediante el servicio de resiliencia operativa y sus sugerencias automatizadas de solución operativa DE TI, puede implementar soluciones correctivas sugeridas antes de que se produzca una interrupción o un fallo. 
+summary: La resiliencia operativa de BlueXP es un servicio que te ayuda a analizar alertas y eventos para mantener el estado, el tiempo activo y el rendimiento de los servicios y soluciones. Mediante el servicio de resiliencia operativa y sus sugerencias automatizadas de solución operativa DE TI, puede implementar soluciones correctivas sugeridas antes de que se produzca una interrupción o un fallo. 
 ---
-= Obtenga más información sobre el servicio de resiliencia operativa
+= Obtenga más información sobre la resiliencia operativa de BlueXP
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,15 +12,15 @@ summary: La resiliencia operativa es un servicio que le ayuda a analizar las ale
 
 
 [role="lead"]
-La resiliencia operativa es un servicio que le ayuda a analizar alertas y eventos para mantener el estado, el tiempo de actividad y el rendimiento de los servicios y las soluciones. Mediante el servicio de resiliencia operativa y sus sugerencias automatizadas de solución de riesgos operativos DE TI, puede implementar soluciones correctivas sugeridas antes de que se produzca una interrupción o un fallo.
+La resiliencia operativa de BlueXP es un servicio que te ayuda a analizar alertas y eventos para mantener el estado, el tiempo activo y el rendimiento de los servicios y las soluciones. Mediante el servicio de resiliencia operativa y sus sugerencias automatizadas de solución de riesgos operativos DE TI, puede implementar soluciones correctivas sugeridas antes de que se produzca una interrupción o un fallo.
 
-Este servicio BlueXP implementa soluciones para los clusters de ONTAP de NetApp basadas en la guía NetApp Digital Advisor (anteriormente Active IQ). El servicio detecta vulnerabilidades de seguridad, como problemas de configuración de firmware y software.
+Este servicio de BlueXP implementa soluciones para los clústeres de ONTAP de NetApp según las directrices del asesor digital de BlueXP (Active IQ). El servicio detecta vulnerabilidades de seguridad, como problemas de configuración de firmware y software.
 
 
 
-== Ventajas del uso del servicio de flexibilidad operativa
+== Beneficios de utilizar la resiliencia operativa de BlueXP
 
-El servicio de flexibilidad operativa ofrece las siguientes ventajas:
+La resiliencia operativa de BlueXP ofrece las siguientes ventajas:
 
 * Procedimientos automatizados para correcciones en el clúster
 * Vista de resumen de la consola que muestra el estado de cada corrección de riesgos
@@ -29,7 +29,7 @@ El servicio de flexibilidad operativa ofrece las siguientes ventajas:
 
 
 
-== Qué puede hacer con el servicio de resiliencia operativa
+== Todo lo que puedes hacer con la resiliencia operativa de BlueXP
 
 Con el servicio de resiliencia operativa, puede lograr los siguientes objetivos:
 
@@ -47,4 +47,4 @@ NetApp no le cobra por usar el servicio.
 
 == Entornos compatibles
 
-El servicio de resiliencia operativa analiza los clústeres ONTAP de NetApp locales.
+Análisis de la resiliencia operativa de BlueXP en los clústeres de ONTAP de NetApp en las instalaciones.

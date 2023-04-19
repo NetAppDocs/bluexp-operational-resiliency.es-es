@@ -4,7 +4,7 @@ permalink: use/remediate-ansible.html
 keywords: bluexp, operational resiliency, remediate, security risk remediation 
 summary: Puede revisar los riesgos de seguridad y descargar un libro de aplicaciones de Ansible que puede seguir para solucionar el problema. 
 ---
-= Solucione con un libro de estrategia de Ansible
+= Corrija los riesgos con un libro de estrategia de Ansible
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
