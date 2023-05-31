@@ -29,7 +29,7 @@ Un conector BlueXP incluye credenciales a las máquinas ONTAP de NetApp para que
 
 Puede crear un conector directamente en BlueXP y utilizarlo en el servicio de resistencia operativa. O bien, puede iniciar el proceso de mirar el clúster y en medio de ese proceso, implementar el conector.
 
-Para crear un conector en BlueXP antes de utilizar el servicio, consulte la documentación de BlueXP que describe https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["Cómo crear un conector"^].
+Para crear un conector en BlueXP antes de utilizar el servicio, consulte la documentación de BlueXP que describe https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["Cómo crear un conector"^].
 
 
 
@@ -37,4 +37,4 @@ Para crear un conector en BlueXP antes de utilizar el servicio, consulte la docu
 
 Parte de la configuración implica identificar el nombre de clúster, IP, nombre de usuario y contraseña dentro de BlueXP.
 
-Para obtener instrucciones, consulte la documentación de BlueXP que explica https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["cómo identificar el clúster"^].
+Para obtener instrucciones, consulte la documentación de BlueXP que explica https://docs.netapp.com/us-en/bluexp-setup-admin/index.html["cómo identificar el clúster"^].

@@ -18,7 +18,7 @@ Para usar el servicio de resiliencia operativa, debe asegurarse de que su entorn
 
 * Su entorno debe cumplir todos los requisitos de BlueXP, incluido un inicio de sesión y acceso a la red desde un navegador Web.
 +
-Consulte la https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-quick-start-standard-mode.html["Inicio rápido de BlueXP"^] y.. https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-networking-saas-console.html["Información de red de BlueXP"^].
+Consulte la https://docs.netapp.com/us-en/bluexp-setup-admin/task-quick-start-standard-mode.html["Inicio rápido de BlueXP"^] y.. https://docs.netapp.com/us-en/bluexp-setup-admin/reference-networking-saas-console.html["Información de red de BlueXP"^].
 
 * El servicio requiere que todos los clústeres estén supervisados por el asesor digital de BlueXP (Active IQ), que requiere que esté habilitado AutoSupport en el activo. Consulte https://docs.netapp.com/us-en/active-iq/index.html["Documentación del asesor digital de BlueXP"^].
 * Debe tener credenciales de acceso a los clústeres.
