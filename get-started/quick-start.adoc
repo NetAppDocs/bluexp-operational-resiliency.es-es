@@ -16,19 +16,19 @@ A continuación encontrarás una descripción general de los pasos necesarios pa
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["Uno"] Revise los requisitos previos
 [role="quick-margin-para"]
-link:../get-started/prerequisites.html["Asegúrese de que su entorno cumpla estos requisitos"^].
+link:../get-started/prerequisites.html["Asegúrese de que su entorno cumpla estos requisitos"].
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["Dos"] Configure el servicio de resiliencia operativa
 [role="quick-margin-para"]
-link:../get-started/setup.html["Complete los pasos necesarios para configurar el servicio"^].
+link:../get-started/setup.html["Complete los pasos necesarios para configurar el servicio"].
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png["Tres"] El futuro
 [role="quick-margin-para"]
 Cuando termine de configurar el servicio, a continuación puede que haga lo siguiente.
 
 [role="quick-margin-list"]
-* link:../use/remediate-overview.html["Revisar y solucionar los problemas de riesgo de seguridad"^].
-* link:../use/remediate-auto.html["Corrija automáticamente"^].
-* link:../use/remediate-ansible.html["Solucione con un libro de estrategia de Ansible"^].
-* link:../use/remediate-status.html["Determinar el estado de corrección de riesgos"^].
+* link:../use/remediate-overview.html["Revisar y solucionar los problemas de riesgo de seguridad"].
+* link:../use/remediate-auto.html["Corrija automáticamente"].
+* link:../use/remediate-ansible.html["Solucione con un libro de estrategia de Ansible"].
+* link:../use/remediate-status.html["Determinar el estado de corrección de riesgos"].
 
