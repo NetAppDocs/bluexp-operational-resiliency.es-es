@@ -205,8 +205,6 @@
   <block id="201080500e946070a2e4873042507c77" category="paragraph">Confirmar envía su solicitud a NetApp y recomienda que cree una cuenta en la página de soporte de NetApp.</block>
   <block id="cc8b0535948da368f832027c19b7f853" category="list-text">Asegúrese de copiar el número de serie de la cuenta (960xxxx) utilizado anteriormente para el campo de número de serie. Esto agilizará el procesamiento de la cuenta.</block>
   <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">NetApp debería ponerse en contacto con usted durante este proceso. Este es un ejercicio de incorporación puntual para nuevos usuarios.</block>
-  <block id="84fa68bdcea2ad5e54b20ac851705b19" category="summary">Las limitaciones conocidas identifican plataformas, dispositivos o funciones que no son compatibles con esta versión del servicio o cuya interoperabilidad con esta no es óptima.</block>
-  <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">Limitaciones</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">Lo nuevo</block>
   <block id="88c49608e723add593f5becc8bd9a968" category="section-title">02 de abril de 2023</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Manos a la obra</block>
@@ -241,8 +239,6 @@
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="69b085a23d3ed85c84455b9288792bf2" category="inline-link">Inicio rápido de BlueXP</block>
   <block id="45e7f38a8238b36c23e85bbe6436ba0b" category="inline-link">Información de red de BlueXP</block>
-  <block id="271a4aecd4217c716176f150130e85ab" category="summary">La resiliencia operativa de BlueXP es un servicio que te ayuda a analizar alertas y eventos para mantener el estado, el tiempo activo y el rendimiento de los servicios y soluciones. Mediante el servicio de resiliencia operativa y sus sugerencias automatizadas de solución de riesgos operativos DE TI, puede implementar soluciones correctivas sugeridas antes de que se produzca una interrupción o un fallo.</block>
-  <block id="dd7c710b103a018a2046baa2f5052ed9" category="doc">Resiliencia operativa de BlueXP</block>
   <block id="e6f9a71f2431a6f1340c157d23dabee6" category="doc">Requisitos previos para la resiliencia operativa de BlueXP</block>
   <block id="4047eed73fb147faca2a60e49cd11bd3" category="inline-link">Documentación del asesor digital de BlueXP</block>
   <block id="79489f774fae583d2ef44553677325d2" category="list-text">El servicio requiere que todos los clústeres estén supervisados por el asesor digital de BlueXP (Active IQ), que requiere que esté habilitado AutoSupport en el activo. Consulte<block ref="28ad866a93984325ed92c672458a0234" category="inline-link-rx"></block>.</block>
@@ -355,4 +351,5 @@
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">Para obtener soporte técnico relacionado con un servicio de archivos del proveedor de cloud, su infraestructura o cualquier solución que utilice el servicio, consulte «Obtener ayuda» en la documentación de BlueXP para ese producto.</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">Para recibir soporte técnico específico sobre BlueXP y sus soluciones y servicios de almacenamiento, use las opciones de soporte descritas a continuación.</block>
   <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp utiliza Microsoft Entra ID como proveedor de identidad para los servicios de autenticación específicos de soporte y licencias.</block>
+  <block id="6cd44b17ed7736e578a73cf34d46ca52" category="sidebar">Documentación sobre resiliencia operativa de BlueXP</block>
 </blocks>
