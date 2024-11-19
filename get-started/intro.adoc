@@ -14,7 +14,7 @@ summary: La resiliencia operativa de BlueXP es un servicio que te ayuda a analiz
 [role="lead"]
 La resiliencia operativa de BlueXP es un servicio que te ayuda a analizar alertas y eventos para mantener el estado, el tiempo activo y el rendimiento de los servicios y las soluciones. Mediante el servicio de resiliencia operativa y sus sugerencias automatizadas de solución de riesgos operativos DE TI, puede implementar soluciones correctivas sugeridas antes de que se produzca una interrupción o un fallo.
 
-Este servicio de BlueXP implementa soluciones para los clústeres de ONTAP de NetApp según las directrices del asesor digital de BlueXP (Active IQ). El servicio detecta vulnerabilidades de seguridad, como problemas de configuración de firmware y software.
+Este servicio de BlueXP  implementa soluciones para los clústeres de NetApp ONTAP según las directrices del asesor digital de Active IQ (también conocido como asesor digital). El servicio detecta vulnerabilidades de seguridad, como problemas de configuración de firmware y software.
 
 
 
